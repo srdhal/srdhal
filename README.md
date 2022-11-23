@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# Hello 👋
 
 <div align="center">
-<img hight="200" width="200" alt="GIF" align="center" src="assests/a6610c886bdef355a7f6d463a9357843e454fc4f_hq.gif">
+<img hight="400" width="400" alt="GIF" align="center" src="assests/a6610c886bdef355a7f6d463a9357843e454fc4f_hq.gif">
 </div>
 
 </br>
@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm a Coding Enthusiast.
+### - I'm a Programming Enthusiast.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assests/animesher.com_code-computer-html-197855.gif">
 
@@ -89,14 +89,11 @@
 <p>
  </br>
 
-
-<img hight="320" width="450" align="right" alt="GIF" src="assests/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6e33496f336758354a6f755159413d3d2d31382e313636386431313864363636386565363337303535333031333435342e676966.gif">
-
 <!-- <a href="mailto:soumyardhal03@gmail.com">
  <img align="left" alt="Gmail" width="100" height="100" src="https://icons8.com/icon/13930/linkedin" />
 </a> -->
 <a href="https://www.linkedin.com/in/soumya-dhal-369b92206/">
-  <img align="left" alt="Linkedin" width="100" height="100" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
+  <img align="left" alt="Linkedin" width="60" height="60" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
 </br>
 </br>
 </br>
@@ -108,11 +105,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-
-
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
