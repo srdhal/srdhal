@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="600" alt="GIF" align="center" src="assests/a6610c886bdef355a7f6d463a9357843e454fc4f_hq.gif">
+<img hight="200" width="200" alt="GIF" align="center" src="assests/a6610c886bdef355a7f6d463a9357843e454fc4f_hq.gif">
 </div>
 
 </br>
@@ -18,12 +18,13 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Web Development
-- ✨ DevOps
+- ✨ Docker
+- ✨ Kubernetes
 
 ### - Hobbies : 
 - ✨ Badminton 
 - ✨ Watching Anime
-- ✨ Reading Light Novels
+- ✨ Sketching
 
 </br>
 </br>
@@ -34,14 +35,14 @@
 # Languages & Tools 👨‍💻 🛠:
 </br>
 
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p align="left">
+<!-- Languages -->
 <!-- C -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>&nbsp
 <!-- C++ -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>&nbsp
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>&nbsp
+<!--  js   -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>&nbsp
 <!-- frontend -->
 <!--    html  -->
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>&nbsp
@@ -65,8 +66,6 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/> </a>&nbsp
 <!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>&nbsp
-<!-- hugo -->
-<a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="30" height="30"/> </a>&nbsp
 <!-- heroku -->
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="25" height="25"/> </a>&nbsp
 <!-- postman -->
@@ -93,9 +92,9 @@
 
 <img hight="320" width="450" align="right" alt="GIF" src="assests/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6e33496f336758354a6f755159413d3d2d31382e313636386431313864363636386565363337303535333031333435342e676966.gif">
 
-<a href="mailto:soumyardhal03@gmail.com">
- <img align="left" alt="Gmail" width="100" height="100" src="https://icons8.com/icon/37246/gmail-logo.png" />
-</a>
+<!-- <a href="mailto:soumyardhal03@gmail.com">
+ <img align="left" alt="Gmail" width="100" height="100" src="https://icons8.com/icon/13930/linkedin" />
+</a> -->
 <a href="https://www.linkedin.com/in/soumya-dhal-369b92206/">
   <img align="left" alt="Linkedin" width="100" height="100" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
 </br>
