@@ -13,7 +13,7 @@
 
 ### - I'm a Programming Enthusiast.
 
-<img hight="400" width="500" alt="GIF" align="right" src="assests/animesher.com_code-computer-html-197855.gif">
+<!-- <img hight="400" width="500" alt="GIF" align="right" src="assests/animesher.com_code-computer-html-197855.gif"> -->
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
