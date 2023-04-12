@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img hight="400" width="400" alt="GIF" align="center" src="assests/a6610c886bdef355a7f6d463a9357843e454fc4f_hq.gif">
+<!-- <img hight="400" width="400" alt="GIF" align="center" src="assests/a6610c886bdef355a7f6d463a9357843e454fc4f_hq.gif"> -->
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm a Programming Enthusiast.
 
-<!-- <img hight="400" width="500" alt="GIF" align="right" src="assests/animesher.com_code-computer-html-197855.gif"> -->
+<img hight="400" width="500" alt="GIF" align="right" src="assests/animesher.com_code-computer-html-197855.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
